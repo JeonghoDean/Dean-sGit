@@ -1,0 +1,3 @@
+﻿  BJ_1026_보물.cpp
+C:\Users\wjdgh\Desktop\Dean_git\AlgorithmPractice\BJ_1026_보물.cpp(22,21): warning C4101:  'temp' :참조되지 않은 지역 변수입니다.
+  AlgorithmPractice.vcxproj -> C:\Users\wjdgh\Desktop\Dean_git\AlgorithmPractice\Debug\AlgorithmPractice.exe
